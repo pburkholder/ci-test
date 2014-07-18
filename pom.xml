@@ -22,4 +22,18 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
+   <contributors>
+    <contributor>
+      <name>PeterB</name>
+      <email>pburkholder@pobox.com</email>
+      <url>http://www.pburkholder.com</url>
+      <organization>Peter Burkholder</organization>
+      <organizationUrl>http://www.pburkholder.com</organizationUrl>
+      <roles>
+        <role>noob</role>
+      </roles>
+      <timezone>America/New York</timezone>
+    </contributor>
+  </contributors>
 </project>
